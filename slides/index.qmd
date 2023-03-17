@@ -1,0 +1,33 @@
+---
+title: Bonnes pratiques pour les projets statistiques
+subtitle: |
+  **[1ère partie : formation à Git]{.orange}**
+author: |
+  [Romain Avouac](https://github.com/avouacr),
+  [Thomas Faria](https://github.com/ThomasFaria),
+  [Lino Galiana](https://www.linogaliana.fr/),
+  [Tom Seimandi](https://github.com/tomseimandi/)
+# date: 
+slide-number: true
+footer: |
+  Bonnes pratiques pour les projets statistiques
+# uncomment for French presentations:
+#lang: fr-FR
+# for blind readers:
+slide-tone: false
+# for @olevitt:
+chalkboard: # press the B key to toggle chalkboard
+  theme: whiteboard
+# uncomment to use the multiplex mode:
+#multiplex: true
+format:
+  # pick the light mode (onyxia-revealjs) or the dark mode (onyxia-dark-revealjs)
+  onyxia-revealjs:
+  #onyxia-dark-revealjs:
+    output-file: index.html
+controls: true
+css: custom.css
+from: markdown+emoji
+---
+
+Cette formation n'est plus à jour. Les nouveaux supports de formation sont disponibles [ici](https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/).
